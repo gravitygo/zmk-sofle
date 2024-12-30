@@ -12,12 +12,17 @@
 If you need a 3D model of this keyboard, it's [here](/sofle-3d-model).
 
 ## Instructions
-
+### Flash update
 1. [Fork this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository).
 2. [Click the **Actions** tab and make sure the workflow is enabled](https://docs.github.com/en/actions/managing-workflow-runs-and-deployments/managing-workflow-runs/disabling-and-enabling-a-workflow#enabling-a-workflow).
 3. Flash the files in your keyboard.
 
 For a more detailed instructions go [here](instructions.md)
+
+### Remap using zmk studio
+1.  Go to [this website](https://zmk.studio/) or Download the software [here](https://github.com/zmkfirmware/zmk-studio/releases)
+2.  Connect your device via usb
+3.  Remap the keys.
 ---
 For any issues and malfunctions with the keyboard, please contact reborn.jp.go@gmail.com
 
